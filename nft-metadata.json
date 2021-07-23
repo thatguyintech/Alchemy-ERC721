@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Coolness",
+      "value" : "6"
+    }, {
+      "trait_type" : "Laziness",
+      "value" : "9001"
+    } ],
+    "description" : "can i use this to buy boba yet?!",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmboHVHNj4XgAUW5vGDE4mbg6VjPmMuUgy7nntSxjyJSuC",
+    "name" : "thatguyintech"
+}
